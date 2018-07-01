@@ -1,0 +1,9 @@
+# Django Login Email
+
+Simple example of modifying Django to login using email instead of username
+
+based on fomfus article https://www.fomfus.com/articles/how-to-use-email-as-username-for-django-authentication-removing-the-username
+
+Tested on
+- Python 3.6
+- Django 1.11
